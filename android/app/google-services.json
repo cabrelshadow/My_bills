@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102643406767",
+    "project_id": "mybills-f5d3e",
+    "storage_bucket": "mybills-f5d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102643406767:android:769a694240c221759f015a",
+        "android_client_info": {
+          "package_name": "com.example.my_bills"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkgRvrQzOXlL-NNTc_XygIFpAro69BPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
